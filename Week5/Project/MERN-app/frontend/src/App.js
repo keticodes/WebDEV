@@ -5,7 +5,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
 import { WorkoutsContextProvider } from './context/WorkoutsContext'; // Correct the import path
-
 import { WorkoutDispatchContextProvider } from './context/WorkoutDispatchContext'; // Specify the correct import path
 
 function App() {
