@@ -80,6 +80,6 @@ For the upcoming weeks, my goals and intentions include:
 
 - **Focused Learning:** I plan to dedicate more time to improving my programming skills and addressing areas where I faced challenges.
 - **Enhanced Time Management:** I will continue to refine my time management techniques to balance my responsibilities effectively.
-- **Effective Collaboration:** I aim to maintain the high level of collaboration and communication with my team while striving for even better results. This was all be done by the end of the course and the presentation. 
+- **Effective Collaboration:** I aim to maintain the high level of collaboration and communication with my team while striving for even better results. This was all be done by the end of the course and
 
-Week 8: [Next Week Number]: [7]
+Week 8: [Next Week Number]: [Date]
